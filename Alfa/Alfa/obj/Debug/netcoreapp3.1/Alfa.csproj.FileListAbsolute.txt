@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Alfa\Alfa\bin\Debug\netcoreapp3.1\Alfa.exe
+C:\Users\User\source\repos\Alfa\Alfa\bin\Debug\netcoreapp3.1\Alfa.deps.json
+C:\Users\User\source\repos\Alfa\Alfa\bin\Debug\netcoreapp3.1\Alfa.runtimeconfig.json
+C:\Users\User\source\repos\Alfa\Alfa\bin\Debug\netcoreapp3.1\Alfa.runtimeconfig.dev.json
+C:\Users\User\source\repos\Alfa\Alfa\bin\Debug\netcoreapp3.1\Alfa.dll
+C:\Users\User\source\repos\Alfa\Alfa\bin\Debug\netcoreapp3.1\Alfa.pdb
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.AssemblyInfo.cs
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.dll
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.pdb
+C:\Users\User\source\repos\Alfa\Alfa\obj\Debug\netcoreapp3.1\Alfa.genruntimeconfig.cache
